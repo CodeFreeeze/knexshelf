@@ -47,8 +47,8 @@ describe('lib', () => {
 
 
         await soloTable.do.create({ label: 'sample data are here' });
-
         await soloTable.do.create({ label: 'sample data are here 2 here' });
+
 
         //expect(await hasTable(profileModel)).to.be.true();
 
